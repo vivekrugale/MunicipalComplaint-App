@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573323259069",
+    "project_id": "sdp-complaint-app",
+    "storage_bucket": "sdp-complaint-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573323259069:android:1d2efe8de0f2146f6edbd4",
+        "android_client_info": {
+          "package_name": "com.example.complaintapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573323259069-cfu9ujsa37letkv4qud6jbraog0te46j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WR9z70i01972aLnVmRBSaEhMuBCjjwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573323259069-cfu9ujsa37letkv4qud6jbraog0te46j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
